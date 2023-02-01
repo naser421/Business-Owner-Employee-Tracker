@@ -18,9 +18,9 @@
 
 ***Thereafter:***
 1. Clone the repository on to your local machine.
-2. Open the terminal and ensure you are in the right file path.
-3. Run the command ```npm install``` to download the packages.
-4. Then run the command ```node index.js``` to run the software.
+2. Open the terminal and ensure you are in the right file directory.
+3. Run the command ```npm install``` to download the indexed packages.
+4. Then run the command ```node index.js``` to run the application.
 5. The command line app will pop up on your terminal
 
 ## User Story
