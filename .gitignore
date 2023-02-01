@@ -3,7 +3,7 @@ node_modules/
 .env
 
 node_modules
-package-lock.json
+package-lock.json 
 .vs
 .DS_Store
 .gitattributes 
