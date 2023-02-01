@@ -61,7 +61,7 @@ https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j
 ```
 
 ## Link
-A link to the [code](https://github.com/naser421/Business-Owner-Employee-Tracker):
+A link to the [code](https://github.com/naser421/Business-Owner-Employee-Tracker): 
 ```
 https://github.com/naser421/Business-Owner-Employee-Tracker
 ```
