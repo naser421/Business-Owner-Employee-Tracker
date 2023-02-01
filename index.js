@@ -9,7 +9,7 @@ db.connect(err => {
     business_owner_employee_tracker();
 });
 
-var business_owner_employee_tracker = function () {  
+var business_owner_employee_tracker = function () {   
     inquirer.prompt([{
         // Command Line Start
         type: 'list',
