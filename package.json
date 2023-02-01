@@ -1,0 +1,29 @@
+{
+  "name": "business-owner-employee-tracker",
+  "version": "1.0.0",
+  "description": "AS A business owner,I WANT to be able to view and manage the departments,roles and employees in my company SO THAT I can organize and plan my business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naser421/Business-Owner-Employee-Tracker.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "mysql"
+  ],
+  "author": "Naser Suleiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naser421/Business-Owner-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/naser421/Business-Owner-Employee-Tracker#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}

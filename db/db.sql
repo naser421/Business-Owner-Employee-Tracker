@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS business_owner_employee_tracker_db;
+CREATE DATABASE business_owner_employee_tracker_db;
+USE business_owner_employee_tracker_db;
