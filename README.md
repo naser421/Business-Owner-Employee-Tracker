@@ -67,6 +67,6 @@ https://github.com/naser421/Business-Owner-Employee-Tracker
 ```
 
 ## License
-  Copyright (c) Naser Suleiman. All rights reserved.
+  Copyright (c)2023 Naser Suleiman. All rights reserved.
   
   Licensed under the [MIT](LICENSE) license.
