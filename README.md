@@ -55,9 +55,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![Command Line](./assets/images/App_Invoke.JPG)
 
 ## Video
-A link to the [Video](https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j):
+A link to the [Video]([Business Owner Employee Tracker App Video Walkthrough.webm](https://user-images.githubusercontent.com/112986806/216163491-2fe2ac3b-a808-48bc-bbc7-49abd6677227.webm)
+):
 ```
-https://watch.screencastify.com/v/H4hFcg5JoAMnU0xBdJ8j
+[Business Owner Employee Tracker App Video Walkthrough.webm](https://user-images.githubusercontent.com/112986806/216163491-2fe2ac3b-a808-48bc-bbc7-49abd6677227.webm)
+
 ```
 
 ## Link
